@@ -1,7 +1,7 @@
 # Algeria-National-Cyber-Deficit-Report
 A strategic whitepaper analyzing national infrastructure vulnerabilities, critical firmware flaws, and policy recommendations to mitigate systemic brain drain of cybersecurity talents.
 # 📑 Strategic Whitepaper: Mitigating Infrastructure Vulnerabilities and Nurturing Cybersecurity Talents in Algeria (v1.0)
-**Author:** Islam Boutaba (Independent Security Researcher / Grey Hat Hacker — Chlef, Algeria)  
+**Author:** Islam Boutaba (Independent Security Researcher  — Chlef, Algeria)  
 **Profile:** Cryptographic Evidence Anchored via Decentralized Blockchain Ledgers.
 
 ---
