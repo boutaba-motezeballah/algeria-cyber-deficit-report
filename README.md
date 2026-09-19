@@ -1,6 +1,6 @@
 # Algeria Cyber Deficit Report
 
-## 📌 Overview
+##  Overview
 This repository contains a direct, simple whitepaper analyzing security flaws in our national internet infrastructure and the problem of cybersecurity talent drain (Brain Drain). This document serves as a logical mirror to show reality and provide real solutions.
 
 ---
